@@ -19,7 +19,7 @@ Your board is protected with a secure passphrase.
 - Private profile details are encrypted before they are stored
 - The public site does not contain resumes, passwords, API keys, or personal job-search data
 - Job listings come from public employer job boards
-- This public repo only contains the basic site build; all the fun stuff is protected behind a secondary private repo
+- This public repo only contains the basic site build; all the fun stuff is protected behind a secondary private repo. (Planning to release a version  in the future that doesn't consume AI tokens and can be run locally using classic NLP and ML techniques)
 
 ## Using the board
 
