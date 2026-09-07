@@ -23,7 +23,7 @@ Your board is protected with a secure passphrase.
 
 ## Using the board
 
-1. Open the board link.
+1. Open [Scout](https://ifyoupardonthepun.github.io/scout/).
 2. Complete your profile and upload or paste your resume.
 3. Review roles in **Jobs**.
 4. Use **Apply** to move a role into your application workflow.
